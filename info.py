@@ -72,6 +72,6 @@ if AUTO_DELETE == "True":
 
 #Sample
 SHORTENER_SITE = environ.get('URL_SHORTNER_SITE','tnlink.in')
-
 SHORTNER_API = environ.get('URL_SHORTNER_API','921e60cab533577e85bf0d2b915ab0105e621f6f')
+
 
